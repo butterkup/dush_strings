@@ -2,7 +2,7 @@
 Helps manipulate strings better in c++
 
 # Example:
-
+c++```
 #include "theedushbag/strings.hpp"
 #include <iostream>
  
@@ -13,3 +13,4 @@ int main()
     std::cout << "Name : " << name << '\n';
     return 0;
 }
+```
