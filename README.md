@@ -1,5 +1,5 @@
 ## theedushbag
-:smiley: Hello There, this repository is dedicated to creating simple c++ files to help/ease moving around c++ for beginers, consider strings.hpp
+:smiley: Hello There, this repository is dedicated to creating simple c++ files to help/ease moving around c++ for begginers, consider strings.hpp
 for manipulating string in c++.
 Helps manipulate strings better in c++
 
@@ -11,7 +11,7 @@ Helps manipulate strings better in c++
 int main()
 {
     std::string name = "simon nganga njoroge";
-    theedushbag::strings::capitalize(name);
+    theedushbag::strings::title(name);
     std::cout << "Name : " << name << '\n';
     return 0;
 }
