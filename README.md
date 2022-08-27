@@ -2,7 +2,7 @@
 Helps manipulate strings better in c++
 
 # Example:
-c++```
+```cpp
 #include "theedushbag/strings.hpp"
 #include <iostream>
  
