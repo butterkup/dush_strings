@@ -1,4 +1,6 @@
-# cmonstring
+## theedushbag
+:smiley: Hello There, this repository is dedicated to creating simple c++ files to help/ease moving around c++ for beginers, consider strings.hpp
+for manipulating string in c++.
 Helps manipulate strings better in c++
 
 # Example:
