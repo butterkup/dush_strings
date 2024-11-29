@@ -15,8 +15,8 @@
     |   ///////////////////////////////////////////////////////////     |
     |                                                                   |
     |            Developer Name : Simon Nganga Njoroge                  |
-    |                     Email : theedushbag@gmail.com                 |
-    |                   Library : theedushbag                           |
+    |                     Email : snn@gmail.com                 |
+    |                   Library : snn                           |
     |                  Language : C++                                   |
     |                                                                   |
     +-------------------------------------------------------------------+
@@ -40,7 +40,7 @@
 
 #endif // NO_INCLUDE
 
-namespace theedushbag
+namespace snn
 {
     namespace strings
     {
@@ -162,8 +162,8 @@ namespace theedushbag
             |   ///////////////////////////////////////////////////////////     |
             |                                                                   |
             |            Developer Name : Simon Nganga Njoroge                  |
-            |                     Email : theedushbag@gmail.com                 |
-            |                   Library : theedushbag                           |
+            |                     Email : snn@gmail.com                 |
+            |                   Library : snn                           |
             |                  Language : C++                                   |
             |                                                                   |
             +-------------------------------------------------------------------+
@@ -238,8 +238,8 @@ namespace theedushbag
             |   ///////////////////////////////////////////////////////////     |
             |                                                                   |
             |            Developer Name : Simon Nganga Njoroge                  |
-            |                     Email : theedushbag@gmail.com                 |
-            |                   Library : theedushbag                           |
+            |                     Email : snn@gmail.com                 |
+            |                   Library : snn                           |
             |                  Language : C++                                   |
             |                                                                   |
             +-------------------------------------------------------------------+
@@ -341,8 +341,8 @@ namespace theedushbag
             |   ///////////////////////////////////////////////////////////     |
             |                                                                   |
             |            Developer Name : Simon Nganga Njoroge                  |
-            |                     Email : theedushbag@gmail.com                 |
-            |                   Library : theedushbag                           |
+            |                     Email : snn@gmail.com                 |
+            |                   Library : snn                           |
             |                  Language : C++                                   |
             |                                                                   |
             +-------------------------------------------------------------------+

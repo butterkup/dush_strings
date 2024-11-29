@@ -4,11 +4,11 @@
 int main()
 {
     std::string name = "simon nganga njoroge";
-    std::cout << "Capitalize Name : " << theedushbag::strings::capitalize(name) << '\n';
-    std::cout << "NAME : " << theedushbag::strings::uppercase(name) << '\n';
-    std::cout << "count 'n' in name : " << theedushbag::strings::count('n', name) << '\n';
-    std::cout << "Title Name : " << theedushbag::strings::title(name) << '\n\n';
+    std::cout << "Capitalize Name : " << snn::strings::capitalize(name) << '\n';
+    std::cout << "NAME : " << snn::strings::uppercase(name) << '\n';
+    std::cout << "count 'n' in name : " << snn::strings::count('n', name) << '\n';
+    std::cout << "Title Name : " << snn::strings::title(name) << '\n\n';
     std::cout << "Other useful string Functions are : \n";
-    for (std::string &funcName : theedushbag::strings::all)
+    for (std::string &funcName : snn::strings::all)
         std::cout << '\t' << funcName << '\n';
 }
